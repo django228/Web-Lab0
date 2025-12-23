@@ -4,6 +4,8 @@ VK Mini App для создания Stories с цитатами.
 
 ![Screenshot](screenshot.png)
 
+Приложение доступно на GitHub Pages: https://django228.github.io/Web-Lab0/
+
 ## Установка
 
 npm install
@@ -12,13 +14,11 @@ npm install
 
 npm run dev
 
-## Туннель
-
-npx localtunnel --port 5173
-
-После запуска используйте полученный URL для доступа к приложению.
-
 ## Сборка
 
 npm run build
+
+## Деплой
+
+Приложение автоматически деплоится на GitHub Pages при каждом push в ветку main.
 
