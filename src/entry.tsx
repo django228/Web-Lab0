@@ -1,4 +1,3 @@
-import React from 'react'
 import ReactDOM from 'react-dom/client'
 import Application from './Application'
 import bridge from '@vkontakte/vk-bridge'
