@@ -2,7 +2,11 @@
 
 VK Mini App для создания Stories с цитатами.
 
-![Screenshot](screenshot.png)
+![Screenshot 1](screenshots/screenshot.png)
+
+![Screenshot 2](screenshots/screenshot2.png)
+
+![Screenshot 3](screenshots/screenshot3.png)
 
 Приложение доступно на GitHub Pages: https://django228.github.io/Web-Lab0/
 
